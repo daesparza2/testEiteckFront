@@ -37,6 +37,6 @@ Lo primero que hice fue organizar mi trabajo utilizando la herramienta https://t
 Clone el presente repositorio y ejecute los siguientes comandos
 
 ```bash
-> 1. npm install 
-> 2. npm run dev
+ npm install 
+ npm run dev
 ```
