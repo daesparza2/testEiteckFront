@@ -1,0 +1,10 @@
+.Paginator{
+display: flex;
+flex-direction: row;
+list-style: none; 
+color: white;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}

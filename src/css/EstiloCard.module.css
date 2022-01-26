@@ -1,0 +1,18 @@
+.modeCard {     
+    list-style: none;     
+    font-size: 1.5rem;     
+    color: black; 
+}
+ .modeCard:hover {     
+    opacity: 0.8; 
+}  
+ .modeImage {     
+    border-radius: 10px;     
+    background-color: azure; 
+} 
+@media (max-width: 560px){     
+    .modeImage {       
+        width: 90%;       
+        height: auto;     
+    } 
+}
