@@ -35,5 +35,5 @@ Lo primero que hice fue organizar mi trabajo utilizando la herramienta https://t
 ## Guía de usuario
 ---
 Clone el presente repositorio y ejecute los siguientes comandos
-1. npm install 
+> 1. npm install 
 2. npm run dev
