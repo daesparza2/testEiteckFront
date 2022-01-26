@@ -28,12 +28,12 @@ Lo primero que hice fue organizar mi trabajo utilizando la herramienta https://t
 - El codigo esta organizado en vistas, componentes y servicos ( que utilizo para consumir el api gratuitam )
 
 ![image](https://user-images.githubusercontent.com/65741905/151099582-023cf206-60d0-433f-a794-e0c0ebefcf59.png)
- Nota : utilice el mismo tablero de la actividad backend
+ Nota : Utilice el mismo tablero de la actividad backend
 
 
 
 ## Guía de usuario
 ---
-clone elpresente repositorio y ejecute los siguientes comandos
+Clone el presente repositorio y ejecute los siguientes comandos
 1. npm install 
 2. npm run dev
